@@ -6,6 +6,5 @@ public class Demo {
 		System.out.println("add ...");
 		System.out.println("new 2.....");
 		System.out.println("new 1.....");
-		
 	}
 }
