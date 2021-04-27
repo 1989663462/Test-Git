@@ -7,5 +7,7 @@ public class Demo {
 		System.out.println("new 2.....");
 		System.out.println("new 1.....");
 		System.out.println("hot-fix");
+		System.out.println("hot fix"); 
+		System.out.println("hot fix1");  
 	}
 }
